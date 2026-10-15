@@ -8,9 +8,9 @@ Built with FastAPI, Google Gemini, and Docker. Designed as a foundation for agen
 
 ## Demo
 
-![Agent response](screenshot-1.PNG)
+![Agent response](Screenshots/screenshot-1.PNG)
 
-![Docker container running](screenshot-2.PNG)
+![Docker container running](Screenshots/screenshot-2.PNG)
 
 ---
 
